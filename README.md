@@ -16,7 +16,7 @@ Entramos al icono de tres puntos y actualizamos los servicios de Google Play.
 Configuramos el emulador para que tenga una ubicación en específico.
 ![img](./capturas/5.png)
 
-###final de la app despues de seguir el colab:
+### final de la app despues de seguir el colab:
 
 ![img](./capturas/6.png)
 
